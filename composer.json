@@ -3,17 +3,30 @@
     "description": "Kannel Http SMS for Laravel",
     "keywords": [
         "rezgui",
+<<<<<<< HEAD
         "laravel",
+=======
+>>>>>>> 23cc19a80fd1c580e06934dceca79733eca12dbe
         "phpkannel"
     ],
     "homepage": "https://github.com/rezgui/phpkannel",
     "license": "MIT",
     "type": "library",
+<<<<<<< HEAD
     "authors": [{
         "name": "Yacine REZGUI",
         "email": "yacine.rezgui@rsolution.dz",
         "role": "Developer"
     }],
+=======
+    "authors": [
+        {
+            "name": "Yacine REZGUI",
+            "email": "yacine.rezgui@rsolution.dz",
+            "role": "Developer"
+        }
+    ],
+>>>>>>> 23cc19a80fd1c580e06934dceca79733eca12dbe
     "require": {
         "php": "^7.4|^8.0",
         "illuminate/support": "^8.0"
@@ -50,4 +63,8 @@
             }
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 23cc19a80fd1c580e06934dceca79733eca12dbe
